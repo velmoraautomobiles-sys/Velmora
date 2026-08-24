@@ -1,0 +1,8 @@
+{
+  "name": "VELMORA AUTOMOBILES",
+  "description": "Premier international dealership showroom offering Vehicle Sales, Direct Private Owner Buyouts, Luxury Daily Rentals, and Long-Term Leasing across Supercars, Daily Cars, Superbikes, and Commercial Trucks in the US, UK, CA, AU, Monaco, DE, and SA with dual USD ($) and GBP (£) pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
+

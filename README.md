@@ -1,11 +1,19 @@
-<div align="center">
+# VELMORA AUTOMOBILES Showroom & Global Atelier
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Velmora Automobiles is a luxury automotive & superbike dealership web platform featuring hypercars, luxury sedans, superbikes, and heavy-duty trucks with multi-currency ($ USD / £ GBP) pricing, purchase/lease/rental funnels, and private owner vehicle buyouts.
 
-  <h1>Built with AI Studio</h2>
+## 🌟 Key Features
+- **Global Showroom**: Exotic supercars, luxury sedans, superbikes, and commercial haulers.
+- **Dual Currency Engine**: Instant switching between $ USD and £ GBP.
+- **Acquisition & Private Buyout Desk**: Direct purchase and valuation from private car owners.
+- **Direct Concierge Integration**: One-click WhatsApp and Email (`velmoraautomobiles@gmail.com`) dealer links.
+- **Finance & Lease Calculator**: Custom term, interest, down-payment, and dual-currency estimates.
+- **Vehicle Matchmaker**: Interactive assessment matching client preferences to stock.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Getting Started
+```bash
+npm install
+npm run dev
+```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+For full deployment instructions, see `DEPLOYMENT.md`.
